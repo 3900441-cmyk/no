@@ -1,0 +1,24 @@
+{
+  "name": "no",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "testHM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3900441-cmyk/no.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3900441-cmyk/no/issues"
+  },
+  "homepage": "https://github.com/3900441-cmyk/no#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
